@@ -19,6 +19,6 @@ def check_palindrome(number: int):
 if __name__ == "__main__":
     print(check_palindrome(number=121))
 
-# git add learn_maths/reverse_number.py learn_maths/reverse_number.png
+# git add learn_maths/02_reverse_number.py learn_maths/02_reverse_number.png
 # git commit - m "added reverse_number files"
 # git push origin learn_mathsD
